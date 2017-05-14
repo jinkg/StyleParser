@@ -1,0 +1,1098 @@
+
+
+
+<!DOCTYPE html >
+<html>
+<head>
+    <title>Springtime Work - Lucian Grigorescu - WikiArt.org</title>
+    <!-- Readonly API Available. Contact info at socialtalents.com -->
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+        <link rel="canonical" href="https://www.wikiart.org/en/lucian-grigorescu/munci-de-prim-var" />
+    <link rel="dns-prefetch" href="//uploads.wikiart.org/">
+    <link rel="dns-prefetch" href="//uploads.wikiart.org">
+    <link rel="dns-prefetch" href="//uploads0.wikiart.org">
+    <link rel="dns-prefetch" href="//uploads1.wikiart.org">
+    <link rel="dns-prefetch" href="//uploads2.wikiart.org">
+    <link rel="dns-prefetch" href="//uploads3.wikiart.org">
+    <link rel="dns-prefetch" href="//uploads4.wikiart.org">
+    <link rel="dns-prefetch" href="//uploads5.wikiart.org">
+    <link rel="dns-prefetch" href="//uploads6.wikiart.org">
+    <link rel="dns-prefetch" href="//uploads7.wikiart.org">
+
+    <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"c602447f6c","applicationID":"14311916","transactionName":"MQADZEECX0dRV00MXQhKLGZwTGFVWVpNDFwBJg5eRxFeWFxRS0pkDwAW","queueTime":0,"applicationTime":102,"agent":"","atts":""}</script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(2),u=e(3),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}finally{f.emit("fn-end",[c.now()],t)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],4:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=m(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){v[e]=m(e).concat(n)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(t)}function g(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var v={},y={},b={on:l,emit:t,get:w,listeners:m,context:n,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(2),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=h.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+h.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===d.readyState&&i()}function i(){f("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),f=e("handle"),c=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1026.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=n.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),f("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+
+
+            <link rel="alternate" href="https://www.wikiart.org/de/lucian-grigorescu/munci-de-prim-var" hreflang="de" />
+            <link rel="alternate" href="https://www.wikiart.org/es/lucian-grigorescu/munci-de-prim-var" hreflang="es" />
+            <link rel="alternate" href="https://www.wikiart.org/fr/lucian-grigorescu/munci-de-prim-var" hreflang="fr" />
+            <link rel="alternate" href="https://www.wikiart.org/pt/lucian-grigorescu/munci-de-prim-var" hreflang="pt" />
+            <link rel="alternate" href="https://www.wikiart.org/ru/lukian-grigoresku/munci-de-prim-var" hreflang="ru" />
+            <link rel="alternate" href="https://www.wikiart.org/uk/lukian-grigoresku/munci-de-prim-var" hreflang="uk" />
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="cleartype" content="on" />
+    <meta name="robots" content="index, follow">
+    <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1, minimum-scale=1, maximum-scale=2, user-scalable=1" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="description" content="Springtime Work by Lucian Grigorescu. Impressionism. genre painting" />
+    <meta property="og:url" content="https://www.wikiart.org/en/lucian-grigorescu/munci-de-prim-var" />
+    <meta property="og:title" content="Springtime Work - Lucian Grigorescu" />
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="https://uploads6.wikiart.org/images/lucian-grigorescu/munci-de-prim-var.jpg!Large.jpg" />
+    <meta property="og:image:width" content="750" />
+    <meta property="og:image:height" content="510" />
+    <meta property="og:site_name" content="www.wikiart.org" />
+    <meta property="og:description" content="Springtime Work by Lucian Grigorescu. Impressionism. genre painting">
+    <meta property="fb:app_id" content="1038592866179110"/>
+
+    <meta name="twitter:site" content="https://www.wikiart.org/en/lucian-grigorescu/munci-de-prim-var">
+    <meta name="twitter:description" content="Springtime Work by Lucian Grigorescu. Impressionism. genre painting">
+    <meta name="twitter:image:src" content="https://uploads6.wikiart.org/images/lucian-grigorescu/munci-de-prim-var.jpg!Large.jpg">
+    <meta name="twitter:domain" content="www.wikiart.org">
+
+    <link type="image/x-icon" rel="shortcut icon" href="/Content/images/favicon.ico" />
+    <link type="image/x-icon" rel="icon" href="/Content/images/favicon.ico" />
+                <link href="https://uploads.wikiart.org/_v2/cdn/www/j9QNPZ5ijK7hZn5K-YRmIs9XyWZyYOOUMBibmNt63QM1.gzip" rel="stylesheet"/>
+
+    <!--[if IE]><link rel="stylesheet" href="/Content/css/ie.css" /><![endif]-->
+</head>
+    <body id="body"
+>
+        <div id="fb-root"></div>
+        <div id="wrapper" class="wrapper">
+
+                <header class="top-navi">
+                    <ul id="navigation" class="navigation fit-width">
+
+
+<li id="firstMenuItem" class="active "><a href="/" title="WikiArt.org - Visual Art Encyclopedia">W</a></li>
+
+<li class="light" id="artistsMenuItem">
+    <a href="javascript:;" title="Artists">Artists</a>
+</li>
+<li class="light" id="artworksMenuItem">
+    <a href="javascript:;" title="Artworks">Artworks</a>
+</li>
+<script type="text/plain">
+    getDataFromLocalStorage('topmenu', -687965841, 'https://uploads.wikiart.org/_v2/cdn/www/-687965841.gzip', bindMenu);
+</script>
+
+<li class="search" id="searchMenuItem">
+    <ins>
+        <a href="javascript:;" class="link"><i class="fontello-icon icon-search"></i></a>
+        <input type="text" id="searchTerm" name="searchterm" placeholder="Search..." onkeydown="search_KeyPressed(event, 'en' ) " />
+        <a href="javascript:;" style="display: none;" class="close"><i class="fontello-icon icon-cancel"></i></a>
+    </ins>
+    <div id="autocomplete-container"></div>
+</li>
+
+
+
+
+
+
+
+
+
+
+
+                            <li id="loginMenuItem" class="desktop-only-block">
+                                <a href="/en/App/WikiAccount/Login?returnUrl=%2Fen%2Flucian-grigorescu%2Fmunci-de-prim-var">Log In</a>
+                            </li>
+                            <li class="mobile-only-block login-menu-item-mobile">
+                                <a class="admin-menu-item" href="/en/App/WikiAccount/Login?returnUrl=%2Fen%2Flucian-grigorescu%2Fmunci-de-prim-var"><i class="admin-menu-profile-icon"></i></a>
+                            </li>
+                    </ul>
+                </header>
+            <div class="navigation-fixed"></div>
+
+            <section class="content fit-width " id="headSection">
+
+                <div class="top-message" style="display: none;">
+                    <span class="msg"></span>
+                    <a href="javascript:;" onclick=" this.parentElement.style.display = 'none'; " class="top-message-close"></a>
+                </div>
+
+
+    <div class="artwork-title">
+        <h1><span itemprop="name">Springtime Work</span></h1>
+        <a class="artist-name" href="/en/lucian-grigorescu">Lucian Grigorescu</a>
+        <div class="arrow-mobile left">
+                <a href="/en/lucian-grigorescu/flowers" onclick="gaClick('paintings-arrows', 'click-left', '/en/lucian-grigorescu/flowers');">&larr;</a>
+        </div>
+        <div class="arrow-mobile right">
+                <a href="/en/lucian-grigorescu/natur-static-cu-fructe" onclick="gaClick('paintings-arrows', 'click-right', '/en/lucian-grigorescu/natur-static-cu-fructe');">&rarr;</a>
+        </div>
+    </div>
+                <div class="hgroup-fixed"></div>
+                <article>
+
+
+
+
+
+
+
+
+<style>
+    .image-wrapper {
+        margin: 0 auto;
+    }
+    .image-title-container {
+        box-sizing: border-box;
+        text-align: left;
+    }
+    @media (max-width: 1600px) and (min-width: 720px) {
+            .artwork-info-block .main-content .image-wrapper img {
+                max-height: 400px !important;
+                max-width: 980px !important;
+            }
+            .artwork-info-block .main-content .image-wrapper {
+                width: 588.235294117647px;
+            }
+            .artist-page.artwork-info-block .main-content .image-wrapper {
+                min-width: 588.235294117647px;
+            }
+    }
+
+    @media (min-width: 1601px) {
+            .artwork-info-block .main-content .image-wrapper img {
+                 max-height: 500px !important;
+            }
+            .artwork-info-block .main-content .image-wrapper {
+                width: 588.235294117647px;
+            }
+            .artist-page.artwork-info-block .main-content .image-wrapper {
+                min-width: 588.235294117647px;
+            }
+    }
+
+    .artwork-info-block .main-content > .info {
+        box-sizing: border-box;
+        flex-grow: 1;
+        -webkit-flex-grow: 1;
+    }
+
+    /* mobile view */
+    @media (max-width: 720px) {
+        /* hide desktop header */
+         .artwork-info-block .main-content .info .painting-header {
+            display: none !important;
+        }
+
+        /* show mobile header */
+        section.content .artwork-title {
+            display: inline-block !important;
+        }
+
+        /* drom info block down */
+        .artwork-info-block .main-content .image-wrapper,
+        .artwork-info-block .main-content .image-wrapper img {
+            margin: 0 !important;
+        }
+
+        .artwork-info-block .main-content .info {
+            text-align: center;
+            padding: 10px 10px 10px 10px;
+        }
+        .artwork-info-block .main-content .image-title-container {
+            width: 100%;
+        }
+        .artwork-info-block .main-content {
+            flex-direction: column;
+        }
+    }
+
+    /* iPad view */
+    @media (width: 1024px) {
+
+
+            /* hide desktop header */
+            .artwork-info-block .main-content .info .painting-header {
+                display: none !important;
+            }
+
+            /* show mobile header */
+            section.content .artwork-title {
+                display: inline-block !important;
+            }
+
+            /* drop info block down */
+            .artwork-info-block .main-content .image-wrapper,
+            .artwork-info-block .main-content .image-wrapper img {
+                margin: 0 !important;
+            }
+
+            .artwork-info-block .main-content .info {
+                text-align: center;
+                max-width: none;
+                padding: 10px 10px 10px 10px;
+            }
+            .artwork-info-block .main-content .image-title-container {
+                width: 100%;
+            }
+            .artwork-info-block .main-content {
+                flex-direction: column;
+            }
+
+
+    }
+
+    /* tablet view */
+    @media (max-width: 1023px) and (min-width: 720px) {
+
+
+            /* hide desktop header */
+            .artwork-info-block .main-content .info .painting-header {
+                display: none !important;
+            }
+
+            /* show mobile header */
+            section.content .artwork-title {
+                display: inline-block !important;
+            }
+
+            /* drop info block down */
+            .artwork-info-block .main-content .image-wrapper,
+            .artwork-info-block .main-content .image-wrapper img {
+                margin: 0 !important;
+            }
+
+            .artwork-info-block .main-content .info {
+                text-align: center;
+                max-width: none;
+                padding: 10px 10px 10px 10px;
+            }
+            .artwork-info-block .main-content .image-title-container {
+                width: 100%;
+            }
+            .artwork-info-block .main-content {
+                flex-direction: column;
+            }
+
+    }
+
+    /* desktop view */
+    @media (min-width: 1025px) {
+        /* show desktop header */
+        .artwork-info-block .main-content .info .painting-header {
+            display: inline-block !important;
+        }
+
+        /* hide mobile header */
+        section.content .artwork-title {
+            display: none !important;
+        }
+    }
+
+    @media (max-width: 720px) {
+        .artwork-info-block .main-content .image-wrapper,
+            .artwork-info-block .main-content .image-wrapper img {
+                margin: 0 auto !important;
+            }
+    }
+</style>
+
+
+
+<form name="paintingviewform" onsubmit="return false;" >
+    <div class="artwork-info-block-container" itemscope itemtype="https://schema.org/Painting">
+        <div class="artwork-page artwork-info-block" >
+            <div class="main-content">
+                    <div id="primaryImage-57728548edc2cb3880007992" class="image">
+                            <div class="image-wrapper" style="position: relative;">
+                                <div class="favourites-menu-anchor" style="width:750;">
+                                    <a id="image-link" href="https://uploads5.wikiart.org/images/lucian-grigorescu/munci-de-prim-var.jpg" title="Springtime Work - Lucian Grigorescu">
+                                        <div class="copyright-message-overlay-wrapper ">
+                                            <img itemprop="image" src="https://uploads6.wikiart.org/images/lucian-grigorescu/munci-de-prim-var.jpg!Large.jpg" alt="Springtime Work - Lucian Grigorescu" title="Springtime Work - Lucian Grigorescu" style="display: block; max-width: 100%; height: auto; max-height: 100%; margin: 0 auto;"/>
+                                        </div>
+                                    </a>
+                                        <div class="favourites-menu favourites-menu-painting desktop-only-block">
+                                                    <i class="icon-heart-empty left like" onclick="FavouritesMgr.redirectAnonymousToPainting('57728548edc2cb3880007992')"></i>
+        <div class="favourites-menu-tooltip favourites-menu-tooltip-like">Sign in to favourite</div>
+
+                                                    <i class="icon-folder-open-empty right open-albums" onclick="FavouritesMgr.redirectAnonymousToPainting('57728548edc2cb3880007992')"></i>
+        <div class="favourites-menu-tooltip favourites-menu-tooltip-add-to-album">Sign in to add to album</div>
+
+                                        </div>
+                                </div>
+                                <div class="image-title-container">
+
+<div class="popup_overlay" id="geographicalNotes">
+    <div class="popup">
+        <div class="popup_header">
+            <span class="text">Geographical notes </span>
+            <span class="popup_close"><a href="javascript:;" onclick=" PopupModule.closePopup('geographicalNotes'); " id="geographicalNotes_close">close</a></span>
+        </div>
+        <div class="popup_copyFairUse">
+            <p>
+                Places are defined in terms of modern geography.
+            </p>
+        </div>
+    </div>
+</div>
+                                    <div class="copyright-wrapper">
+<div class="popup_overlay" id="copyFairUse">
+    <div class="popup">
+        <div class="popup_header">
+            <span class="text">Copyright Information </span>
+            <span class="popup_close"><a href="javascript:;" onclick="PopupModule.closePopup('copyFairUse');" id="copyFairUse_close">close</a></span>
+        </div>
+        <div class="popup_copyFairUse">
+                <p style="text-align:left;">Fair use rationale:</p>
+                <ol class="decimal">
+                    <li style="padding-bottom: 10px;">it is a historically significant artwork</li>
+                    <li style="padding-bottom: 10px;">the image is only being used for informational and educational purposes</li>
+                    <li style="padding-bottom: 10px;">the image is readily available on the internet</li>
+                    <li style="padding-bottom: 10px;">the image is a low resolution copy of the original artwork and is unsuitable for commercial use</li>
+                </ol>
+                <p><a href="http://www.copyright.gov/fls/fl102.html" target="_blank">More</a>&hellip;</p>
+                <div class="copyright-box">
+                    <p>WikiArt.org allows unlimited copying, distributing and displaying of the images of <b>public domain</b> artworks <b>solely</b>. We use here <span>Copyright term based on authors' deaths according to</span> <b>U.S. Copyright Law</b>, that is 70 years. <b>In other countries, the duration of copyright term may differ.</b> Please <a href="https://en.wikipedia.org/wiki/List_of_countries%27_copyright_length" target="_blank">check here</a> copyright length according to your country's legislation before you consider reproducing images borrowed from Wikipaintings.org</p>
+                    <p>Artworks <b>protected by copyright</b> are supposed to be used only for contemplation. Images of that type of artworks <b>are prohibited</b> for copying, printing, or any kind of reproducing and communicating to public since these activities may be considered <span><b>copyright infringement</b></span>.</p>
+                </div>
+
+        </div>
+    </div>
+</div>
+
+                                            <div class="svg-icon-copyright">
+Lucian Grigorescu                                            </div>
+                                            <div class="svg-icon-fair-use">
+                                                <a class="pointer" onclick=" PopupModule.bindPopupShow('copyFairUse') ">Fair Use</a>
+                                            </div>
+                                    </div>
+                                </div>
+                        </div>
+
+                    </div>
+                <div class="info">
+                    <div class="info-line painting-header">
+                        <div class="arrow-container">
+                                <div class="arrow left">
+                                    <a href="/en/lucian-grigorescu/flowers" onclick="gaClick('paintings-arrows', 'click-left', '/en/lucian-grigorescu/flowers');">&larr;</a>
+                                </div>
+                                                            <div class="arrow right">
+                                    <a href="/en/lucian-grigorescu/natur-static-cu-fructe" onclick="gaClick('paintings-arrows', 'click-right', '/en/lucian-grigorescu/natur-static-cu-fructe');">&rarr;</a>
+                                </div>
+                        </div>
+                        <h1>Springtime Work</h1>
+                        <div itemprop="creator" itemscope itemtype="https://schema.org/Person">
+                            <span itemprop="name">
+                                <a class="artist-name" href="/en/lucian-grigorescu">Lucian Grigorescu</a>
+                            </span>
+                                <meta itemprop="sameAs" content="http://en.wikipedia.org/wiki/Lucian_Grigorescu"/>
+                        </div>
+
+                    </div>
+
+
+
+
+
+
+                        <div class="info-line">
+                            <span class="title">Style:</span>
+                                                    <a href="/en/paintings-by-style/impressionism"><span>Impressionism</span></a>
+                        </div>
+
+
+
+                        <div class="info-line">
+                            <span class="title">Genre:</span>
+                                                    <a href="/en/paintings-by-genre/genre-painting"><span itemprop="genre">genre painting</span></a>
+                        </div>
+
+
+
+
+
+
+
+
+
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+
+        <div class="artwork-group-header-wrapper">
+            <div class="fit-width artwork-group-header-flex">
+                <div class="artwork-group-header-flex-item">
+                    Lucian Grigorescu
+                </div>
+                <div class="artwork-group-header-flex-item artwork-group-header-flex-item-fixed-width artwork-group-header-flex-item-active">
+                    Famous works
+                </div>
+            </div>
+        </div>
+</form>
+
+    <div class="fit-width related-dictionary-thumbnail-container ">
+            <div class="related-dictionary-thumbnail related-dictionary-thumbnail-painting column-width">
+                <a href="/en/lucian-grigorescu/case-din-via-ripetta-1921" class="related-dictionary-thumbnail-image" style="background-image: url('https://uploads5.wikiart.org/images/lucian-grigorescu/case-din-via-ripetta-1921.jpg!PinterestLarge.jpg')"
+                   title="Via Ripetta Houses"></a>
+
+                <a href="/en/lucian-grigorescu/case-din-via-ripetta-1921" class="related-dictionary-thumbnail-title" title="Via Ripetta Houses">Via Ripetta Houses</a>
+
+                <div class="related-dictionary-thumbnail-title-sub">
+                    <a href="/en/lucian-grigorescu">Lucian Grigorescu</a> · 1921
+                </div>
+            </div>
+            <div class="related-dictionary-thumbnail related-dictionary-thumbnail-painting column-width">
+                <a href="/en/lucian-grigorescu/balcicul-spre-mare-1940" class="related-dictionary-thumbnail-image" style="background-image: url('https://uploads3.wikiart.org/images/lucian-grigorescu/balcicul-spre-mare-1940.jpg!PinterestLarge.jpg')"
+                   title="Balchik Towards the Sea"></a>
+
+                <a href="/en/lucian-grigorescu/balcicul-spre-mare-1940" class="related-dictionary-thumbnail-title" title="Balchik Towards the Sea">Balchik Towards the Sea</a>
+
+                <div class="related-dictionary-thumbnail-title-sub">
+                    <a href="/en/lucian-grigorescu">Lucian Grigorescu</a> · 1940
+                </div>
+            </div>
+            <div class="related-dictionary-thumbnail related-dictionary-thumbnail-painting column-width">
+                <a href="/en/lucian-grigorescu/case-i-dealuri-la-balcic" class="related-dictionary-thumbnail-image" style="background-image: url('https://uploads4.wikiart.org/images/lucian-grigorescu/case-i-dealuri-la-balcic.jpg!PinterestLarge.jpg')"
+                   title="Bachik Houses and Hills"></a>
+
+                <a href="/en/lucian-grigorescu/case-i-dealuri-la-balcic" class="related-dictionary-thumbnail-title" title="Bachik Houses and Hills">Bachik Houses and Hills</a>
+
+                <div class="related-dictionary-thumbnail-title-sub">
+                    <a href="/en/lucian-grigorescu">Lucian Grigorescu</a> ·
+                </div>
+            </div>
+            <div class="related-dictionary-thumbnail related-dictionary-thumbnail-painting column-width">
+                <a href="/en/lucian-grigorescu/chibi-i-n-ci-migiu" class="related-dictionary-thumbnail-image" style="background-image: url('https://uploads7.wikiart.org/images/lucian-grigorescu/chibi-i-n-ci-migiu.jpg!PinterestLarge.jpg')"
+                   title="Chibiți &#238;n Cișmigiu"></a>
+
+                <a href="/en/lucian-grigorescu/chibi-i-n-ci-migiu" class="related-dictionary-thumbnail-title" title="Chibiți &#238;n Cișmigiu">Chibiți &#238;n Cișmigiu</a>
+
+                <div class="related-dictionary-thumbnail-title-sub">
+                    <a href="/en/lucian-grigorescu">Lucian Grigorescu</a> ·
+                </div>
+            </div>
+            <div class="related-dictionary-thumbnail related-dictionary-thumbnail-painting column-width">
+                <a href="/en/lucian-grigorescu/munci-de-prim-var" class="related-dictionary-thumbnail-image" style="background-image: url('https://uploads6.wikiart.org/images/lucian-grigorescu/munci-de-prim-var.jpg!PinterestLarge.jpg')"
+                   title="Springtime Work"></a>
+
+                <a href="/en/lucian-grigorescu/munci-de-prim-var" class="related-dictionary-thumbnail-title" title="Springtime Work">Springtime Work</a>
+
+                <div class="related-dictionary-thumbnail-title-sub">
+                    <a href="/en/lucian-grigorescu">Lucian Grigorescu</a> ·
+                </div>
+            </div>
+            <div class="related-dictionary-thumbnail related-dictionary-thumbnail-painting column-width">
+                <a href="/en/lucian-grigorescu/peisaj-cu-biseric-ro-ie" class="related-dictionary-thumbnail-image" style="background-image: url('https://uploads3.wikiart.org/images/lucian-grigorescu/peisaj-cu-biseric-ro-ie.jpg!PinterestLarge.jpg')"
+                   title="Red Church Landscape"></a>
+
+                <a href="/en/lucian-grigorescu/peisaj-cu-biseric-ro-ie" class="related-dictionary-thumbnail-title" title="Red Church Landscape">Red Church Landscape</a>
+
+                <div class="related-dictionary-thumbnail-title-sub">
+                    <a href="/en/lucian-grigorescu">Lucian Grigorescu</a> ·
+                </div>
+            </div>
+    </div>
+    <div class="artist-search-navigation artist-search-navigation-painting fit-width">
+        <a class="view-all-works" href="/en/lucian-grigorescu/all-works">
+            View all 34 artworks
+        </a>
+    </div>
+    <div class="fit-width artist-header-featured">
+        <hgroup>
+            <h2 class="h1">Related Artworks</h2>
+        </hgroup>
+    </div>
+
+
+
+
+
+    <div style="display:none;" class="google-paintings">
+
+
+<ul>
+        <li class="loader">
+            <ul class="title">
+                <li>
+                    <a href="/en/vasile-popescu/sewer">Sewer</a>
+                </li>
+                <li>
+                    <a href="/en/vasile-popescu/" title="About">Vasile Popescu</a>
+                </li>
+            </ul>
+        </li>
+        <li class="loader">
+            <ul class="title">
+                <li>
+                    <a href="/en/sever-burada/springtime-in-c-lm-valley">Springtime in Călmăț Valley</a>
+                </li>
+                <li>
+                    <a href="/en/sever-burada/" title="About">Sever Burada</a>
+                </li>
+            </ul>
+        </li>
+        <li class="loader">
+            <ul class="title">
+                <li>
+                    <a href="/en/sever-burada/children-tapping-easter-eggs">Children Tapping Easter Eggs</a>
+                </li>
+                <li>
+                    <a href="/en/sever-burada/" title="About">Sever Burada</a>
+                </li>
+            </ul>
+        </li>
+        <li class="loader">
+            <ul class="title">
+                <li>
+                    <a href="/en/sever-burada/winter-in-c-lm-valley">Winter in Călmăț Valley</a>
+                </li>
+                <li>
+                    <a href="/en/sever-burada/" title="About">Sever Burada</a>
+                </li>
+            </ul>
+        </li>
+        <li class="loader">
+            <ul class="title">
+                <li>
+                    <a href="/en/nutzi-acontz/mamut-s-caf">Mamut&#39;s Caf&#233;</a>
+                </li>
+                <li>
+                    <a href="/en/nutzi-acontz/" title="About">Nutzi Acontz</a>
+                </li>
+            </ul>
+        </li>
+        <li class="loader">
+            <ul class="title">
+                <li>
+                    <a href="/en/vasile-popescu/harlequin">Harlequin</a>
+                </li>
+                <li>
+                    <a href="/en/vasile-popescu/" title="About">Vasile Popescu</a>
+                </li>
+            </ul>
+        </li>
+        <li class="loader">
+            <ul class="title">
+                <li>
+                    <a href="/en/nutzi-acontz/dobrujan-street">Dobrujan Street</a>
+                </li>
+                <li>
+                    <a href="/en/nutzi-acontz/" title="About">Nutzi Acontz</a>
+                </li>
+            </ul>
+        </li>
+        <li class="loader">
+            <ul class="title">
+                <li>
+                    <a href="/en/sever-burada/balchik">Balchik</a>
+                </li>
+                <li>
+                    <a href="/en/sever-burada/" title="About">Sever Burada</a>
+                </li>
+            </ul>
+        </li>
+        <li class="loader">
+            <ul class="title">
+                <li>
+                    <a href="/en/sever-burada/springtime">Springtime</a>
+                </li>
+                <li>
+                    <a href="/en/sever-burada/" title="About">Sever Burada</a>
+                </li>
+            </ul>
+        </li>
+        <li class="loader">
+            <ul class="title">
+                <li>
+                    <a href="/en/sever-burada/self-portrait">Self-Portrait</a>
+                </li>
+                <li>
+                    <a href="/en/sever-burada/" title="About">Sever Burada</a>
+                </li>
+            </ul>
+        </li>
+        <li class="loader">
+            <ul class="title">
+                <li>
+                    <a href="/en/sever-burada/balchik-gulf">Balchik Gulf</a>
+                </li>
+                <li>
+                    <a href="/en/sever-burada/" title="About">Sever Burada</a>
+                </li>
+            </ul>
+        </li>
+        <li class="loader">
+            <ul class="title">
+                <li>
+                    <a href="/en/sever-burada/the-way-home">The Way Home</a>
+                </li>
+                <li>
+                    <a href="/en/sever-burada/" title="About">Sever Burada</a>
+                </li>
+            </ul>
+        </li>
+        <li class="loader">
+            <ul class="title">
+                <li>
+                    <a href="/en/sever-burada/tatar-houses-in-balchik">Tatar Houses in Balchik</a>
+                </li>
+                <li>
+                    <a href="/en/sever-burada/" title="About">Sever Burada</a>
+                </li>
+            </ul>
+        </li>
+        <li class="loader">
+            <ul class="title">
+                <li>
+                    <a href="/en/sever-burada/child">Child</a>
+                </li>
+                <li>
+                    <a href="/en/sever-burada/" title="About">Sever Burada</a>
+                </li>
+            </ul>
+        </li>
+        <li class="loader">
+            <ul class="title">
+                <li>
+                    <a href="/en/sever-burada/balchik-noon">Balchik Noon</a>
+                </li>
+                <li>
+                    <a href="/en/sever-burada/" title="About">Sever Burada</a>
+                </li>
+            </ul>
+        </li>
+        <li class="loader">
+            <ul class="title">
+                <li>
+                    <a href="/en/vasile-popescu/composition-with-sailor-and-siren">Composition with Sailor and Siren</a>
+                </li>
+                <li>
+                    <a href="/en/vasile-popescu/" title="About">Vasile Popescu</a>
+                </li>
+            </ul>
+        </li>
+        <li class="loader">
+            <ul class="title">
+                <li>
+                    <a href="/en/sever-burada/balchik-hills">Balchik Hills</a>
+                </li>
+                <li>
+                    <a href="/en/sever-burada/" title="About">Sever Burada</a>
+                </li>
+            </ul>
+        </li>
+        <li class="loader">
+            <ul class="title">
+                <li>
+                    <a href="/en/nutzi-acontz/the-sleep">The Sleep</a>
+                </li>
+                <li>
+                    <a href="/en/nutzi-acontz/" title="About">Nutzi Acontz</a>
+                </li>
+            </ul>
+        </li>
+        <li class="loader">
+            <ul class="title">
+                <li>
+                    <a href="/en/nutzi-acontz/balcic-gulf">Balcic Gulf</a>
+                </li>
+                <li>
+                    <a href="/en/nutzi-acontz/" title="About">Nutzi Acontz</a>
+                </li>
+            </ul>
+        </li>
+        <li class="loader">
+            <ul class="title">
+                <li>
+                    <a href="/en/nutzi-acontz/still-life-with-fruit">Still Life with Fruit</a>
+                </li>
+                <li>
+                    <a href="/en/nutzi-acontz/" title="About">Nutzi Acontz</a>
+                </li>
+            </ul>
+        </li>
+</ul>
+
+
+<div id="pager" class="loader">
+    <ul>
+                    <li>
+                1
+            </li>
+            </ul>
+</div>
+
+</div>
+
+    <div class="standalone-loader-cube-wrapper">
+        <div class="standalone-loader-cube uil-cube-css" id="standalone-loader-cube">
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+        </div>
+    </div>
+    <div id="wiki-tiles" class="wiki-tiles loading">
+    </div>
+    <div class="btn-more-container" id="btn-more-container">
+            <div id="paintingCountBlock" class="countBlock">
+            </div>
+                    <button class="btn-more" id="btn-more" style="display: none;">
+                Load more
+            </button>
+                <div class="btn-more-loader-cube-wrapper" style="display: none;">
+            <div class="uil-cube-css" id="btn-more-loader">
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+            </div>
+        </div>
+    </div>
+    <script type="text/plain">
+
+    var _gaq = _gaq || [];
+    $(function(){
+        $st.Localization().AddLabel('Wikipainting.Painting.AdvertisementBestPriceArt', 'Order an oil painting reproduction');
+        $st.Localization().AddLabel('WikipaintingsV2.CountBlock.OutOf', 'out of');
+        $st.Localization().AddLabel('Wikipaintings.Masonry.SignInToFavourite', 'Sign in to favourite');
+        $st.Localization().AddLabel('Wikipaintings.Masonry.SignInToAddToAlbum', 'Sign in to add to album');
+        $st.Localization().AddLabel('Wikipaintings.Masonry.AddToFavourites', 'Add to favourites');
+        $st.Localization().AddLabel('Wikipaintings.Masonry.RemoveFromFavourites', 'Remove from favourites');
+        $st.Localization().AddLabel('Wikipaintings.Masonry.AddToAlbum', 'Add to album');
+        $st.Localization().AddLabel('Wikipaintings.Masonry.CreateNew', 'Create new');
+        $st.Localization().AddLabel('Wikipaintings.Masonry.RemoveFromAlbum', 'Remove from album');
+        $st.Localization().AddLabel('Wikipaintings.Masonry.RestoreToAlbum', 'Restore to album');
+        $st.Localization().AddLabel('Wikipaintings.Masonry.EnterAlbumName', 'enter album name');
+        $st.Localization().AddLabel('Wikipainting.Artwork.Copyright_Claim_Message_Portrait', 'Sorry, this artwork cannot be displayed in your country due to copyright restrictions :(');
+
+        imageSizes = [{ "SizeName" : "Blog", "Width" : 500, "Height" : 500, "NeedToFill" : false, "IsOptional" : true }, { "SizeName" : "Large", "Width" : 750, "Height" : 600, "NeedToFill" : false, "IsOptional" : true }, { "SizeName" : "PortraitSmall", "Width" : 220, "Height" : 275, "NeedToFill" : true, "IsOptional" : false }, { "SizeName" : "Portrait", "Width" : 400, "Height" : 400, "NeedToFill" : false, "IsOptional" : true }, { "SizeName" : "HalfHD", "Width" : 1366, "Height" : 800, "NeedToFill" : false, "IsOptional" : true }, { "SizeName" : "HD", "Width" : 1920, "Height" : 1200, "NeedToFill" : false, "IsOptional" : true }, { "SizeName" : "PinterestSmall", "Width" : 210, "Height" : 840, "NeedToFill" : false, "IsOptional" : false }, { "SizeName" : "PinterestLarge", "Width" : 280, "Height" : 1120, "NeedToFill" : false, "IsOptional" : false }];
+	    supersizedInit('/en/App/Painting/ImageData', imageSizes);
+
+        var data = [{ "_id" : "57728540edc2cb3880006ce8", "title" : "Sewer", "year" : "XX cent.", "width" : 767, "height" : 851, "artistName" : "Vasile Popescu", "image" : "https://uploads8.wikiart.org/images/vasile-popescu/sewer.jpg", "map" : "01234*67*", "paintingUrl" : "/en/vasile-popescu/sewer", "albums" : null, "flags" : 0 }, { "_id" : "5772855dedc2cb388000ecae", "title" : "Springtime in Călmăț Valley", "year" : "XX cent.", "width" : 798, "height" : 1000, "artistName" : "Sever Burada", "image" : "https://uploads8.wikiart.org/images/sever-burada/springtime-in-c-lm-valley.jpg", "map" : "01234*67*", "paintingUrl" : "/en/sever-burada/springtime-in-c-lm-valley", "albums" : null, "flags" : 0 }, { "_id" : "5772855dedc2cb388000ec4e", "title" : "Children Tapping Easter Eggs", "year" : "XX cent.", "width" : 973, "height" : 1000, "artistName" : "Sever Burada", "image" : "https://uploads2.wikiart.org/images/sever-burada/children-tapping-easter-eggs.jpg", "map" : "01234*67*", "paintingUrl" : "/en/sever-burada/children-tapping-easter-eggs", "albums" : null, "flags" : 0 }, { "_id" : "5772855dedc2cb388000ec9e", "title" : "Winter in Călmăț Valley", "year" : "XX cent.", "width" : 818, "height" : 1000, "artistName" : "Sever Burada", "image" : "https://uploads4.wikiart.org/images/sever-burada/winter-in-c-lm-valley.jpg", "map" : "01234*67*", "paintingUrl" : "/en/sever-burada/winter-in-c-lm-valley", "albums" : null, "flags" : 0 }, { "_id" : "577282fbedc2cb3880f96320", "title" : "Mamut&#39;s Caf&#233;", "year" : "XX cent.", "width" : 1000, "height" : 696, "artistName" : "Nutzi Acontz", "image" : "https://uploads3.wikiart.org/images/nutzi-acontz/mamut-s-caf.jpg", "map" : "0123**67*", "paintingUrl" : "/en/nutzi-acontz/mamut-s-caf", "albums" : null, "flags" : 0 }, { "_id" : "57728540edc2cb3880006c58", "title" : "Harlequin", "year" : "XX cent.", "width" : 752, "height" : 1000, "artistName" : "Vasile Popescu", "image" : "https://uploads3.wikiart.org/images/vasile-popescu/harlequin.jpg", "map" : "01234*67*", "paintingUrl" : "/en/vasile-popescu/harlequin", "albums" : null, "flags" : 0 }, { "_id" : "577282fbedc2cb3880f963a2", "title" : "Dobrujan Street", "year" : "XX cent.", "width" : 391, "height" : 520, "artistName" : "Nutzi Acontz", "image" : "https://uploads7.wikiart.org/images/nutzi-acontz/dobrujan-street.jpg", "map" : "0*23**67*", "paintingUrl" : "/en/nutzi-acontz/dobrujan-street", "albums" : null, "flags" : 0 }, { "_id" : "5772855dedc2cb388000ec2e", "title" : "Balchik", "year" : "XX cent.", "width" : 1000, "height" : 652, "artistName" : "Sever Burada", "image" : "https://uploads8.wikiart.org/images/sever-burada/balchik.jpg", "map" : "0123**67*", "paintingUrl" : "/en/sever-burada/balchik", "albums" : null, "flags" : 0 }, { "_id" : "5772855dedc2cb388000ecbe", "title" : "Springtime", "year" : "XX cent.", "width" : 920, "height" : 585, "artistName" : "Sever Burada", "image" : "https://uploads2.wikiart.org/images/sever-burada/springtime.jpg", "map" : "0123**67*", "paintingUrl" : "/en/sever-burada/springtime", "albums" : null, "flags" : 0 }, { "_id" : "5772855cedc2cb388000ec1e", "title" : "Self-Portrait", "year" : "XX cent.", "width" : 400, "height" : 470, "artistName" : "Sever Burada", "image" : "https://uploads5.wikiart.org/images/sever-burada/self-portrait.jpg", "map" : "**23**67*", "paintingUrl" : "/en/sever-burada/self-portrait", "albums" : null, "flags" : 0 }, { "_id" : "5772855dedc2cb388000ec8e", "title" : "Balchik Gulf", "year" : "XX cent.", "width" : 1000, "height" : 675, "artistName" : "Sever Burada", "image" : "https://uploads4.wikiart.org/images/sever-burada/balchik-gulf.jpg", "map" : "0123**67*", "paintingUrl" : "/en/sever-burada/balchik-gulf", "albums" : null, "flags" : 0 }, { "_id" : "5772855dedc2cb388000ec7e", "title" : "The Way Home", "year" : "XX cent.", "width" : 1000, "height" : 798, "artistName" : "Sever Burada", "image" : "https://uploads4.wikiart.org/images/sever-burada/the-way-home.jpg", "map" : "0123**67*", "paintingUrl" : "/en/sever-burada/the-way-home", "albums" : null, "flags" : 0 }, { "_id" : "5772855dedc2cb388000ec3e", "title" : "Tatar Houses in Balchik", "year" : "XX cent.", "width" : 1000, "height" : 750, "artistName" : "Sever Burada", "image" : "https://uploads6.wikiart.org/images/sever-burada/tatar-houses-in-balchik.jpg", "map" : "0123**67*", "paintingUrl" : "/en/sever-burada/tatar-houses-in-balchik", "albums" : null, "flags" : 0 }, { "_id" : "5772855dedc2cb388000ec5e", "title" : "Child", "year" : "XX cent.", "width" : 789, "height" : 1000, "artistName" : "Sever Burada", "image" : "https://uploads6.wikiart.org/images/sever-burada/child.jpg", "map" : "01234*67*", "paintingUrl" : "/en/sever-burada/child", "albums" : null, "flags" : 0 }, { "_id" : "5772855cedc2cb388000ebfc", "title" : "Balchik Noon", "year" : "XX cent.", "width" : 1000, "height" : 701, "artistName" : "Sever Burada", "image" : "https://uploads4.wikiart.org/images/sever-burada/balchik-noon.jpg", "map" : "0123**67*", "paintingUrl" : "/en/sever-burada/balchik-noon", "albums" : null, "flags" : 0 }, { "_id" : "57728540edc2cb3880006cd8", "title" : "Composition with Sailor and Siren", "year" : "XX cent.", "width" : 1000, "height" : 769, "artistName" : "Vasile Popescu", "image" : "https://uploads0.wikiart.org/images/vasile-popescu/composition-with-sailor-and-siren.jpg", "map" : "0123**67*", "paintingUrl" : "/en/vasile-popescu/composition-with-sailor-and-siren", "albums" : null, "flags" : 0 }, { "_id" : "5772855dedc2cb388000ec6e", "title" : "Balchik Hills", "year" : "XX cent.", "width" : 1000, "height" : 751, "artistName" : "Sever Burada", "image" : "https://uploads5.wikiart.org/images/sever-burada/balchik-hills.jpg", "map" : "0123**67*", "paintingUrl" : "/en/sever-burada/balchik-hills", "albums" : null, "flags" : 0 }, { "_id" : "577282fbedc2cb3880f96372", "title" : "The Sleep", "year" : "XX cent.", "width" : 797, "height" : 570, "artistName" : "Nutzi Acontz", "image" : "https://uploads1.wikiart.org/images/nutzi-acontz/the-sleep.jpg", "map" : "0123**67*", "paintingUrl" : "/en/nutzi-acontz/the-sleep", "albums" : null, "flags" : 0 }, { "_id" : "577282fbedc2cb3880f96332", "title" : "Balcic Gulf", "year" : "XX cent.", "width" : 630, "height" : 451, "artistName" : "Nutzi Acontz", "image" : "https://uploads3.wikiart.org/images/nutzi-acontz/balcic-gulf.jpg", "map" : "0*23**67*", "paintingUrl" : "/en/nutzi-acontz/balcic-gulf", "albums" : null, "flags" : 0 }, { "_id" : "577282fbedc2cb3880f96382", "title" : "Still Life with Fruit", "year" : "XX cent.", "width" : 893, "height" : 720, "artistName" : "Nutzi Acontz", "image" : "https://uploads4.wikiart.org/images/nutzi-acontz/still-life-with-fruit.jpg", "map" : "0123**67*", "paintingUrl" : "/en/nutzi-acontz/still-life-with-fruit", "albums" : null, "flags" : 0 }];
+
+
+        FavouritesMgr.initAlbums({
+            albums: [],
+            currentAlbumId: '',
+            userIsAnonymous: 'true'
+        });
+        FavouritesMgr.setCurrentLanguage('en')
+        PaintingsRenderer.init({
+            name: 'search',
+            dataUrl: '/en/lucian-grigorescu/munci-de-prim-var?json=2',
+            data: data,
+            pageSize: 60,
+            page: 1,
+            allPaingtingCount: 50,
+            firstPageShift: 40,
+            preventDefaultListLoading: false,
+            galleryLocation : 'default'
+        });
+
+
+
+	    $(".loader").remove();
+	    $(".wiki-tiles.loading").removeClass("loading");
+        hideStandaloneLoaderCube();
+    });
+
+    function toogleArtistListHeight() {
+        var originalList = document.querySelector('.artists-group-list');
+        var list = originalList.cloneNode(true);
+        originalList.parentNode.removeChild(originalList);
+
+        if (list.className.indexOf('limit-height') != -1) {
+            list.className = list.className.replace('limit-height', '').trim();
+            document.querySelector('.artists-list-show-all .hide').style.display = '';
+            document.querySelector('.artists-list-show-all .show').style.display = 'none';
+        } else {
+            list.className += ' limit-height';
+            document.querySelector('.artists-list-show-all .show').style.display = '';
+            document.querySelector('.artists-list-show-all .hide').style.display = 'none';
+        }
+        console.log(list);
+        document.querySelector('.artists-list-container')
+            .insertBefore(list, document.querySelector('.artists-list-show-all-container'));
+    }
+
+    </script>
+
+
+
+
+
+
+
+
+<script type="text/plain">
+    var isRestricted = false;
+
+    $(function () {
+        $(".image.loading").removeClass("loading");
+    });
+
+    PopupModule.init('copyPublicDomain');
+    PopupModule.init('copyFairUse');
+
+
+
+
+    FavouritesMgr.initPrimaryImage({ "_id" : "57728548edc2cb3880007992", "title" : "Springtime Work", "year" : "?", "width" : 1000, "height" : 680, "artistName" : "Lucian Grigorescu", "image" : "https://uploads5.wikiart.org/images/lucian-grigorescu/munci-de-prim-var.jpg", "map" : "0123**67*", "paintingUrl" : "/en/lucian-grigorescu/munci-de-prim-var", "albums" : null, "flags" : 0 });
+    var init = throttle(function (event) {
+        PaintingsRenderer.init({
+            name: "chronologically",
+            dataUrl: '/en/lucian-grigorescu/mode/all-paintings?json=2',
+            pageSize: 60,
+            page: 1,
+            openGallery: true,
+            galleryPosition: 22,
+            firstPageShift: 40
+        });
+
+    }, 1000);
+
+    document.querySelector('#image-link img').addEventListener('click', function(event) {
+        event.preventDefault();
+        if (!isRestricted) {
+            init();
+        }
+    });
+
+    var copyrightMsg = document.querySelector('.copyright-message-overlay-artwork');
+    if (copyrightMsg != null) {
+        copyrightMsg.addEventListener('click', function(event) {
+            event.preventDefault();
+        });
+    }
+
+</script>
+
+                    <div id="statusMessage" style="position: fixed; left: 50px; top: 5px; padding: 10px 20px; background: #337ab7; display: none; color: white; margin-bottom: 20px; font-weight: bold; border: 1px solid transparent; border-radius: 4px; z-index:9999;">
+    <span id="statusMessageBody"></span>
+</div>
+
+                </article>
+            </section>
+
+
+<footer>
+    <ul class="navigation">
+        <li id="footerHome"><a href="/">Home</a></li>
+        <li id="footerAbout"><a href="/en/about">About</a></li>
+        <li id="footerFeedback"><a href="https://wikiart.uservoice.com">Feedback</a></li>
+        <li id="footerDonate"><a href="/en/donate">Donate</a></li>
+        <li id="footerTermsOfUse" class="desktop-only-inline-block"><a href="/en/terms-of-use">Terms of use</a></li>
+
+
+        <li>
+            <a href="https://play.google.com/store/apps/details?id=com.ilit.wikipaintings">Android App</a>
+
+        </li>
+        <li class="language-footer">
+            <a id="lngFooter" class="languages-switch" href="javascript:;" title="Language">Language<i></i></a>
+            <div class="languages-switch-footer">
+                <ins class="language-item-footer"><a id=enlanguage href="/en/lucian-grigorescu/munci-de-prim-var">English</a></ins><ins class="language-item-footer"><a id=delanguage href="/de/lucian-grigorescu/munci-de-prim-var">Deutsch</a></ins><ins class="language-item-footer"><a id=eslanguage href="/es/lucian-grigorescu/munci-de-prim-var">Español</a></ins><ins class="language-item-footer"><a id=frlanguage href="/fr/lucian-grigorescu/munci-de-prim-var">Française</a></ins><ins class="language-item-footer"><a id=ptlanguage href="/pt/lucian-grigorescu/munci-de-prim-var">Portuguese</a></ins><ins class="language-item-footer"><a id=rulanguage href="/ru/lukian-grigoresku/munci-de-prim-var">Русский</a></ins><ins class="language-item-footer"><a id=uklanguage href="/uk/lukian-grigoresku/munci-de-prim-var">Українська</a></ins>
+            </div>
+        </li>
+    </ul>
+
+    <div class="title">
+        WikiArt (WikiPaintings) on <a class="social" href="https://twitter.com/wikipaintings">Twitter</a> and <a class="social" href="https://www.facebook.com/wikiart.org">Facebook</a>
+        <span class="fb-iframe">
+            <div class="fb-like" data-href="https://www.facebook.com/wikiart.org" data-layout="button_count" data-action="like" data-show-faces="true" data-share="false"></div>
+        </span>
+    </div>
+</footer>
+
+        </div>
+
+
+            <script type="text/javascript">
+                var needToLoadSocialScripts = 'false';
+                function LoadScriptsNoSrc() { noSrsScriptsWereLoaded = !0, $('script[type="text/plain"]').each(function () { var e = $(this).attr("src"); e && "" != e ? _deferreds.push(e) : $("body").append($(this).attr("type", "text/javascript")), $(this).remove() }), jsloading() } function jsloading() { if (_deferreds.length) { var e = document.createElement("script"), t = _deferreds.shift(); e.src = t, e.addEventListener ? e.addEventListener("load", jsloadingComplete, !1) : e.readyState && (e.onreadystatechange = jsloadingComplete), document.getElementsByTagName("body")[0].appendChild(e) } else noSrsScriptsWereLoaded || LoadScriptsNoSrc() } function jsloadingComplete() { this.readyState && "loaded" != this.readyState && "complete" != this.readyState || jsloading() } var noSrsScriptsWereLoaded = !1, _deferreds = _deferreds || [];
+                _deferreds.unshift("https://uploads.wikiart.org/_v2/cdn/www/NtFQdYajGE54pMf1Dw5NK3pAcPK427mBoeg-vMHffpg1.gzip"),
+                window.addEventListener ? window.addEventListener("load", jsloading, !1) : window.attachEvent ? window.attachEvent("onload", jsloading) : window.onload = jsloading;
+            </script>
+                <script type="text/plain">
+            Init('5917c013edc2c96a60');
+            document.lang = 'en';
+            document.masonry = null;
+            document.afterMasonry = [];
+        </script>
+        <script type="text/plain">
+    window.fbAsyncInit = function () {
+        FB.init({
+            appId: '1038592866179110',
+            xfbml: true,
+            status: true,
+            cookie: true,
+            oauth : true,
+            version: 'v2.5'
+        });
+        FB.Event.subscribe('auth.login', function(response) {
+            console.log('FB.Event.subscribe');
+            console.log(response);
+        });
+
+        window._SocialCallbacks = {};
+        window._SocialCallbacks.facebook = function() {
+            FB.ui({
+                method: 'share_open_graph',
+                action_type: 'og.likes'
+            }, function(response){});
+        };
+
+    };
+</script>
+<script type="text/plain">
+    document.afterMasonry.push(function() {
+    (function (i, s, o, g, r, a, m) {
+    i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+    (i[r].q = i[r].q || []).push(arguments)
+    }, i[r].l = 1 * new Date(); a = s.createElement(o),
+    m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-20329506-1', 'auto');
+    ga('send', 'pageview');
+
+    gaTrack = function(path, title) {
+        ga('set', { page: path, title: title });
+        ga('send', 'pageview');
+    };
+
+    gaClick = function(category, action, label) {
+        ga('send', 'event', category, action, label);
+    };
+    if (needToLoadSocialScripts && needToLoadSocialScripts === 'true'){
+        _deferreds.push('//apis.google.com/js/platform.js');
+        _deferreds.push('//assets.pinterest.com/js/pinit.js');
+        _deferreds.push('//platform.twitter.com/widgets.js');
+    }
+
+    _deferreds.push('//connect.facebook.net/en_US/sdk.js');
+    LoadScriptsNoSrc();
+    });
+</script>
+
+
+    </body>
+</html>
+
+<!-- 00.000 001: TopMenuService.GetVersion() start
+00.000 012: TopmenuService.GetByLang() start
+00.000 144: Code: 1 menu: 1
+00.000 154: TopMenuService.GetVersion() end
+00.004 039: TopMenuService.GetVersion() start
+00.004 051: TopmenuService.GetByLang() start
+00.004 206: Code: 1 menu: 1
+00.004 218: TopMenuService.GetVersion() end
+00.004 227: TopMenuService.GetVersion() start
+00.004 231: TopmenuService.GetByLang() start
+00.004 360: Code: 1 menu: 1
+00.004 372: TopMenuService.GetVersion() end
+00.004 397: Action [View] started.
+00.004 739: artist GetByLocalizedUrl start
+00.004 749: get artist from global cache start
+00.009 513: get artist from global cache found
+00.009 526: painting GetByLocalizedUrl start
+00.011 418: painting GetByLocalizedUrl end
+00.011 446: ArtistService.GetById, no cache context passed
+00.011 929: Before read
+00.011 942: Painting reader entered
+00.014 916: Painting reader - query ready
+00.017 073: after read
+00.019 719: total calculated
+00.019 920: Albums fill started
+00.019 946: Albums fill ended
+00.019 974: Before read
+00.019 981: related read start
+00.020 093: Painting reader entered
+00.022 717: Painting reader - query ready
+00.035 250: related read end
+00.035 266: after read
+00.037 881: total calculated
+00.038 131: Albums fill started
+00.038 166: Albums fill ended
+00.038 203: painting DictionaryValues get start
+00.038 494: painting DictionaryValues get start
+00.041 607: DictionariesOfArtistService ByArtist Entered
+00.041 786: model.DictionariesOfArtist calculated
+00.041 999: Painting reader entered
+00.044 515: Painting reader - query ready
+00.067 214: Action [View] done.
+00.068 043: painting DictionaryValues get start
+00.068 354: painting DictionaryValues get start
+00.068 378: painting DictionaryValues get start
+00.068 673: painting DictionaryValues get start
+00.068 694: painting DictionaryValues get start
+00.068 991: painting DictionaryValues get start
+00.071 604: painting DictionaryValues get start
+00.071 911: painting DictionaryValues get start
+00.072 090: painting DictionaryValues get start
+00.072 388: painting DictionaryValues get start
+00.072 573: painting DictionaryValues get start
+00.072 871: painting DictionaryValues get start
+00.073 056: painting DictionaryValues get start
+00.073 356: painting DictionaryValues get start
+00.073 519: painting DictionaryValues get start
+00.073 821: painting DictionaryValues get start
+00.073 842: painting DictionaryValues get start
+00.074 143: painting DictionaryValues get start
+00.074 162: painting DictionaryValues get start
+00.074 451: painting DictionaryValues get start
+00.077 316: _ViewPaintings start
+00.077 452: _GooglePaintings start
+00.078 012: _GooglePaintings end
+00.078 059: google paintings done
+00.080 321: Before json
+00.080 362: artist DictionaryValues get start
+00.081 086: artist DictionaryValues get finished
+00.081 397: artist DictionaryValues get start
+00.082 137: artist DictionaryValues get finished
+00.082 430: artist DictionaryValues get start
+00.083 145: artist DictionaryValues get finished
+00.083 434: artist DictionaryValues get start
+00.084 165: artist DictionaryValues get finished
+00.084 463: artist DictionaryValues get start
+00.085 176: artist DictionaryValues get finished
+00.085 464: artist DictionaryValues get start
+00.086 184: artist DictionaryValues get finished
+00.086 470: artist DictionaryValues get start
+00.087 211: artist DictionaryValues get finished
+00.087 508: artist DictionaryValues get start
+00.088 227: artist DictionaryValues get finished
+00.088 515: artist DictionaryValues get start
+00.089 236: artist DictionaryValues get finished
+00.089 523: artist DictionaryValues get start
+00.090 245: artist DictionaryValues get finished
+00.090 531: artist DictionaryValues get start
+00.091 256: artist DictionaryValues get finished
+00.091 551: artist DictionaryValues get start
+00.092 257: artist DictionaryValues get finished
+00.092 548: artist DictionaryValues get start
+00.093 258: artist DictionaryValues get finished
+00.093 551: artist DictionaryValues get start
+00.094 264: artist DictionaryValues get finished
+00.094 553: artist DictionaryValues get start
+00.095 267: artist DictionaryValues get finished
+00.095 553: artist DictionaryValues get start
+00.096 267: artist DictionaryValues get finished
+00.096 562: artist DictionaryValues get start
+00.097 277: artist DictionaryValues get finished
+00.097 563: artist DictionaryValues get start
+00.098 279: artist DictionaryValues get finished
+00.098 566: artist DictionaryValues get start
+00.099 283: artist DictionaryValues get finished
+00.099 572: artist DictionaryValues get start
+00.100 288: artist DictionaryValues get finished
+00.100 585: After json
+00.100 632: _ViewPaintings end
+00.101 217: view done, layout start
+00.102 455: Languages menu done
+00.104 080: Render complete
+-->

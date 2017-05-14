@@ -1,0 +1,2 @@
+export PATH=~/Tools/apache-maven-3.5.0/bin:$PATH
+mvn package assembly:single
